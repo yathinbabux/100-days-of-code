@@ -42,7 +42,7 @@
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
 
-### Day 6 - 10: February 20 - 24, Wednesday
+### Day 6 - 10: February 20 - 24, Monday
 
 **Today's Progress**: Due to the changing of repository the entire log from Day 6 - 10 was lost. But I have finished the Responsive Web Design certification course.
 
@@ -50,3 +50,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/certification/yathinbabux/responsive-web-design)
+
+### Day 11: February 25, Tuesday
+
+**Today's Progress**: Started JavaScript and Data structures Certification course on freeCodeCamp.
+
+**Thoughts** Got to know about variables, how to store values, how to operate on them using +,-,*,/, also learnt about increment and decrement operators.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
