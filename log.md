@@ -41,3 +41,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 6 - 10: February 20 - 24, Wednesday
+
+**Today's Progress**: Due to the changing of repository the entire log from Day 6 - 10 was lost. But I have finished the Responsive Web Design certification course.
+
+**Thoughts** Feeling great, gotto to know how to design simple css design.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/certification/yathinbabux/responsive-web-design)
