@@ -59,3 +59,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 12: February 26, Wednesday
+
+**Today's Progress**: Started to work on decimal numbers with JavaScript, also learnt on argumented assignments.
+
+**Thoughts** Got to know how operation on decimal numbers work.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
