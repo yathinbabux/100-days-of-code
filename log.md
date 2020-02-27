@@ -68,3 +68,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 13: February 27, Thursday
+
+**Today's Progress**: Today I learned about stings, concatination and other operations related to strings on freeCodeCamp.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
