@@ -95,3 +95,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 15: March 3, Tuesday
+
+**Today's Progress**: Learned about switchs, cases and return concepts on freeCodeCamp.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
