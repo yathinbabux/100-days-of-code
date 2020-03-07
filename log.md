@@ -122,3 +122,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 18: March 7, Saturday
+
+**Today's Progress**: Refreshed basic javascript section and started ES6, learnt about let, const keywords. Also learned about arrow functions and rest operator.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
