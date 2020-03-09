@@ -132,9 +132,18 @@
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
 
-### Day 19: March 8, Saturday
+### Day 19: March 8, Sunday
 
 **Today's Progress**: Learning about spread operator and destructuring of objects nad array in ES6.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 20: March 9, Monday
+
+**Today's Progress**: Learning about template literal and constructors in Javascript.
 
 **Thoughts** Was fun.
 
