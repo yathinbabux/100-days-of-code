@@ -149,3 +149,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 21: March 10,Tuesday
+
+**Today's Progress**: Todat I learned about ES6 import and export also about Javascript Promises.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
