@@ -158,3 +158,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 22: March 11,Wednesday
+
+**Today's Progress**: Started regex on freeCodecamp, learnt about test and match methods. Also learnt about dot, character classes, *, +.
+
+**Thoughts** Learned about how to match specific string.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
