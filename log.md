@@ -167,3 +167,21 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 23: March 12,Thursday
+
+**Today's Progress**: Opensourced a twitter bot i created.
+
+**Thoughts** It will like and retweet randomly.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://github.com/yathinbabux/100DaysOfCode-twitter-bot)
+
+### Day 23: March 13,Wednesday
+
+**Today's Progress**: Finished Javascript regex section on freeCodeCamp.
+
+**Thoughts** Learned a lot.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
