@@ -185,3 +185,10 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 24 - 25: 
+
+**Today's Progress**: Revised Basic Javascript, ES6 and regex sections on freecodecamp.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
