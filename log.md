@@ -192,3 +192,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 26: March 16,Monday
+
+**Today's Progress**: Learned about Javascript debugging.
+
+**Thoughts** So now i know what types of errors, where they possible may occur, etc.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
