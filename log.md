@@ -210,3 +210,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 28: March 18, Wednesday
+
+**Today's Progress**: Finished basic data structure section and started basic algorithem section on freecodecamp.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
