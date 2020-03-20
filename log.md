@@ -219,3 +219,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
+### Day 29 - 30: March 19, 20 Thursday - Friday
+
+**Today's Progress**: Learned so new HTML elements like video, progress, storage API, location API and new form types.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
