@@ -229,3 +229,12 @@
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
 
+### Day 33: March 23 Monday
+
+**Today's Progress**: Finished basic algorithm scripting on freeCodeCamp.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.org/yathinbabux/)
+
