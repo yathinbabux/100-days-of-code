@@ -9,3 +9,11 @@
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
 
+### Day 2: April 17, Friday
+
+**Today's Progress**: Finished JavaScript DOM on sololearn.
+
+**Thoughts** Learned how to select element through DOM, style it, add, delete, replace it. Created two animation, finally learned about form validation.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
