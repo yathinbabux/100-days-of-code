@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 3: April 18, Saturday
+
+**Today's Progress**: Finished Basic data structure on freecodecamp.
+
+**Thoughts** Learned about accessing and modifying arrays and objects.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
