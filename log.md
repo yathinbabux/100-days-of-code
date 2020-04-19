@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 4: April 19, Sunday
+
+**Today's Progress**: Finished Basic algorithm scripting section on freecodecamp.
+
+**Thoughts** Solved many coding challenges.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
