@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 5: April 20, Monday
+
+**Today's Progress**: Started object oriented programming section of javascript certification on freecodecamp.
+
+**Thoughts** Learned how to create onjects, access it's properties. How to create methods, constructor functions.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
