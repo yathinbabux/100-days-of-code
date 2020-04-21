@@ -44,3 +44,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 6: April 21, Tuesday
+
+**Today's Progress**: Finished Javascript and Data Structures certification on freecodecamp.
+
+**Thoughts** Today I finished Object Oriented Programming, Functional Programming, Intermediate Algorithm Scripting and projects.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
