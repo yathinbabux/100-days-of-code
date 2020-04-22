@@ -53,3 +53,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 7: April 22, Wednesday
+
+**Today's Progress**: Started Front end libraries certification on freecodecamp.
+
+**Thoughts** Today i started Bootstrap framework, learnt how to make heading, image and buttons responsive.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
