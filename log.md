@@ -62,3 +62,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 8: April 23, Thursday
+
+**Today's Progress**: Finished Bootstrap section on freecodecamp.
+
+**Thoughts** Today i learnt about how to style heading, forms and font awesome library.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
