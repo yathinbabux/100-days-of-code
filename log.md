@@ -71,3 +71,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 9: April 26, Sunday
+
+**Today's Progress**: Didn't had electric power for two days, couldn't code in that time, today i started jQuery on freeCodeCamp.
+
+**Thoughts** Today i learnt about how to animate elements with bounce, shake, fade out effect. Learnt about css, and prop function.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
