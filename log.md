@@ -80,3 +80,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 10: April 27, Monday
+
+**Today's Progress**: Finished jQuery section on freeCodeCamp.
+
+**Thoughts** Today i learnt about how to change text within an element. How to remove, move, clone elements. How to target specific element. Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
