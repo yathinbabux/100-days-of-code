@@ -89,3 +89,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 11: April 28, Tuesday
+
+**Today's Progress**: Started sass section on freeCodeCamp.
+
+**Thoughts** Today i learnt about how to declare varibles in sass, nest styles, mixin, if, else if and else and for directive. Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
