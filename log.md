@@ -98,3 +98,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 12: April 29, Wednesday
+
+**Today's Progress**: Created a simple, user friendly UI chat bot.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.yathinbabu.in/xael)
