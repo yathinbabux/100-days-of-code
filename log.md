@@ -107,3 +107,9 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.yathinbabu.in/xael)
+
+### Day 13: May 4, Monday
+
+**Today's Progress**: Forgot to log this days, I'm working on converting a HTML template to WordPress theme from yesterday, learnt how to make components.
+
+**Thoughts** Was fun.
