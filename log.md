@@ -113,3 +113,9 @@
 **Today's Progress**: Forgot to log this days, I'm working on converting a HTML template to WordPress theme from yesterday, learnt how to make components.
 
 **Thoughts** Was fun.
+
+### Day 14: May 5, Tuesday
+
+**Today's Progress**: So today i built custom theme WordPress template.
+
+**Thoughts** Was fun.
