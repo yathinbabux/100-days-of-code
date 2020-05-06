@@ -119,3 +119,12 @@
 **Today's Progress**: So today i built custom theme WordPress template.
 
 **Thoughts** Was fun.
+
+### Day 13: May 6, Wednesday
+
+**Today's Progress**: Finished the tutorial for conversion of BootStrap template to WordPress theme.
+
+**Thoughts** Learned how we can make the template to components, how to create blog, archieve, individual posts, comment section, 404 page with search bar, was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.yathinbabu.in/xael)
