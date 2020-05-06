@@ -106,7 +106,7 @@
 **Thoughts** Was fun.
 
 **Link(s) to work**
-1. [freeCodeCamp profile](https://www.yathinbabu.in/xael)
+1. [Chat bot link](https://www.yathinbabu.in/xael)
 
 ### Day 13: May 4, Monday
 
@@ -127,4 +127,4 @@
 **Thoughts** Learned how we can make the template to components, how to create blog, archieve, individual posts, comment section, 404 page with search bar, was fun.
 
 **Link(s) to work**
-1. [freeCodeCamp profile](https://www.yathinbabu.in/xael)
+1. [Git Repo](https://github.com/yathinbabux/wordpress-blog-site-template)
