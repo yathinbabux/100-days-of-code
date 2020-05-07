@@ -136,4 +136,4 @@
 **Thoughts** Learned about @each, @while, @import, @extend directives, was fun.
 
 **Link(s) to work**
-1. [Git Repo](https://github.com/yathinbabux/wordpress-blog-site-template)
+1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
