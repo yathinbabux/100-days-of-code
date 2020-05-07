@@ -128,3 +128,12 @@
 
 **Link(s) to work**
 1. [Git Repo](https://github.com/yathinbabux/wordpress-blog-site-template)
+
+### Day 14: May 7, Thursday
+
+**Today's Progress**: Today i completed saas section under front-end libraries certification on freecodecamp.
+
+**Thoughts** Learned about @each, @while, @import, @extend directives, was fun.
+
+**Link(s) to work**
+1. [Git Repo](https://github.com/yathinbabux/wordpress-blog-site-template)
