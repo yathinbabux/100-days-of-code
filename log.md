@@ -137,3 +137,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp profile](https://www.freecodecamp.com/yathinbabux)
+
+### Day 15: May 8, Friday
+
+**Today's Progress**: Today i completely changed my website, added a game as soon as the website open.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [freeCodeCamp profile](https://www.yathinbabu.in)
