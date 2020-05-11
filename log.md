@@ -145,4 +145,14 @@
 **Thoughts** Was fun.
 
 **Link(s) to work**
-1. [freeCodeCamp profile](https://www.yathinbabu.in)
+1. [Website](https://www.yathinbabu.in)
+
+
+### Day 17: May 11, Monday
+
+**Today's Progress**: TStarted React.js javascript framework on React.js official tutorial.
+
+**Thoughts** Learned how to setup a React.js app in local environment, learned about components, render.
+
+**Link(s) to work**
+1. [Tutorial](https://reactjs.org/tutorial/tutorial.html)
