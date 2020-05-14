@@ -156,3 +156,12 @@
 
 **Link(s) to work**
 1. [Tutorial](https://reactjs.org/tutorial/tutorial.html)
+
+### Day 18: May 14, Thursday
+
+**Today's Progress**: Started React.js tutorial on scrimba.
+
+**Thoughts** Learnt about VirtualDOM, react functional components, parent and child relationship.
+
+**Link(s) to work**
+1. [Tutorial](https://scrimba.com/)
