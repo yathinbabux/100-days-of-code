@@ -8,3 +8,21 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 1: May 19, Tuesday
+
+**Today's Progress**: Forgot to log yesterday, redesigned my website.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://www.yathinbabu.in/)
+
+### Day 3: May 20, Wednesday
+
+**Today's Progress**: Back to scrimba, learnt about inline style in JSX and about props. Did a simple joke app.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
