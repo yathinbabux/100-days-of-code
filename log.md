@@ -26,3 +26,12 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 4: May 21, Thursday
+
+**Today's Progress**: Learnt about mapping of components in React.js on scrimba, completed Phase 3 of todos app.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
