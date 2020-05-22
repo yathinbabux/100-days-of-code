@@ -35,3 +35,12 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 5: May 22, Friday
+
+**Today's Progress**: Learnt about class based components, handling state on scrimba, completed Phase 4 of todos app.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
