@@ -44,3 +44,12 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 6: May 23, Saturday
+
+**Today's Progress**: Learnt about event based components, setState method in class based components in React.js on scrimba, completed Phase 5 of todos app.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
