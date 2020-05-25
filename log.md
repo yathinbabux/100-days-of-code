@@ -53,3 +53,12 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 7: May 25, Monday
+
+**Today's Progress**: Learnt about setState method in class based components, life-cycle methods in React.js on scrimba, completed Phase 6 of todos app.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
