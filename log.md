@@ -60,5 +60,11 @@
 
 **Thoughts** Was fun.
 
+### Day 8: May 26, Tuesday
+
+**Today's Progress**: Learnt about life-cycle methods, event handling in React.js on scrimba, completed Phase 7 of todos app.
+
+**Thoughts** Was fun.
+
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
