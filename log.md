@@ -68,3 +68,12 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 9: May 27, Wednesday
+
+**Today's Progress**: Create a twitter bot, learnt how to featch data from an API to a react app from scrimba.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
