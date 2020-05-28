@@ -77,3 +77,12 @@
 
 **Link(s) to work**
 1. [Scrimba](https://scrimba.com/)
+
+### Day 10: May 28, Thursday
+
+**Today's Progress**: Learned to create form in React.js from scrimba.
+
+**Thoughts** Was fun.
+
+**Link(s) to work**
+1. [Scrimba](https://scrimba.com/)
