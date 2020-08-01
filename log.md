@@ -7,4 +7,4 @@
 **Thoughts** Learned about heading, para, comments, img, links, input, form, div ,body, head and doctype elements.
 
 **Link(s) to work**
-1. [Scrimba](https://freecodecamp.org/)
+1. [freeCodeCamp](https://freecodecamp.org/)
