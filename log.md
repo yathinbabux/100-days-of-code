@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+### Round 1 Day 2: August 2, Sunday
+
+**Today's Progress**: Completed Basic CSS section on freeCodeCamp's Responsive web design certification.
+
+**Thoughts** Learned about many properties to color, on fonts, padding, margin, background, different ways to select elements and modify, hex codes, RGB and CSS variables.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
