@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+### Round 1 Day 3: August 3, Monday
+
+**Today's Progress**: Finished some couple of challenges on Applied visual design on freeCodeCamp's Responsive web design certification.
+
+**Thoughts** Learned about how to align text, change text style, boldness, decorate it, hr element.
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
