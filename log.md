@@ -26,3 +26,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+
+### Round 1 Day 4: August 4, Tuesday
+
+**Today's Progress**: Finished some couple of challenges on Applied visual design on freeCodeCamp's Responsive web design certification.
+
+**Thoughts** Learned about position element, its different values. Float, z-index, margin elements. Primary, Secondary and Tertiary color system. 
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
