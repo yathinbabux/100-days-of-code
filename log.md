@@ -36,3 +36,9 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+### Round 1 Day 5-6: August 4-5, Wednesday - Thursday
+
+**Today's Progress**: Built a event booking system using PHP and MySQL.
+
+**Thoughts** It has a from to get input and a admin baseboard to view the event enquiry. 
