@@ -37,8 +37,14 @@
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
 
-### Round 1 Day 5-6: August 4-5, Wednesday - Thursday
+### Round 1 Day 5-6: August 5-6 Wednesday -Thursday
 
 **Today's Progress**: Built a event booking system using PHP and MySQL.
 
 **Thoughts** It has a from to get input and a admin baseboard to view the event enquiry. 
+
+### Round 1 Day 7: August 7 Friday
+
+**Today's Progress**: Finished freeCodecamp's Applied visual Design section for Responsive web design certification.
+
+**Thoughts** Learned about linear-grdient, reprated-linear-grdient, transform scale, transform rotate, transform skewX, skewY and animation properties.
