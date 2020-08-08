@@ -48,3 +48,12 @@
 **Today's Progress**: Finished freeCodecamp's Applied visual Design section for Responsive web design certification.
 
 **Thoughts** Learned about linear-grdient, reprated-linear-grdient, transform scale, transform rotate, transform skewX, skewY and animation properties.
+
+### Round 1 Day 8: August 8, Saturday
+
+**Today's Progress**: Finished challenges on Accessibility on freeCodeCamp's Responsive web design certification.
+
+**Thoughts** Learned about img alt attibute, heading hierarchichy, main, article, header, nav, footer, audio, figure, figcapture, fieldset and legend elements, how to keep contrast, how to make elements only visible to screen readers, accesskey, tabindex. 
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
