@@ -57,3 +57,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+### Round 1 Day 9: August 9, Sunday
+
+**Today's Progress**: Finished challenges on Responsive Web Design and CSS Flex-box on freeCodeCamp's Responsive web design certification.
+
+**Thoughts** Learned about media queries, how to make image responsive, ratina images and text size based on view port also learned about flex, flex-direction, justify-content, align-items, flex-wrap, flex-grow, flex-shrink, flex-basis, flex, order, align-self. 
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
