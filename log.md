@@ -66,3 +66,13 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+
+### Round 1 Day 10: August 10, Monday
+
+**Today's Progress**: Started a mini-project on PHP and MySQL.
+
+**Thoughts** Created a login page, dashboard page, logout function and password page. 
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
