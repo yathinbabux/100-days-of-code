@@ -76,3 +76,12 @@
 
 **Link(s) to work**
 1. [freeCodeCamp](https://freecodecamp.org/)
+
+### Round 1 Day 11: August 11, Tuesday
+
+**Today's Progress**: Created a secure login and reset password module in PHP and MySQL.
+
+**Thoughts** Improved the design part of reset password and implemented password hashing. 
+
+**Link(s) to work**
+1. [freeCodeCamp](https://freecodecamp.org/)
