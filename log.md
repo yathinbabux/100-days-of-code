@@ -74,14 +74,15 @@
 
 **Thoughts** Created a login page, dashboard page, logout function and password page. 
 
-**Link(s) to work**
-1. [freeCodeCamp](https://freecodecamp.org/)
-
 ### Round 1 Day 11: August 11, Tuesday
 
 **Today's Progress**: Created a secure login and reset password module in PHP and MySQL.
 
 **Thoughts** Improved the design part of reset password and implemented password hashing. 
 
-**Link(s) to work**
-1. [freeCodeCamp](https://freecodecamp.org/)
+
+### Round 1 Day 12: August 12, Wednesday
+
+**Today's Progress**: Started to learn Python.
+
+**Thoughts** Learnt about how to print strings, numbers and played with different datatypes and variables and how strings and variables can be manupulated.
